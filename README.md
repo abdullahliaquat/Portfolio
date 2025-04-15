@@ -1,2 +1,2 @@
 # My-Portfolio
-Abdullah's personal portfolio.
+Abdullah's portfolio.
